@@ -1,0 +1,17 @@
+body {
+  background-color: #eee;
+  max-width: 1200px;
+  margin: 1em auto;
+}
+
+article {
+  background-color: #fff;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+#tagline {
+  font-style: italic;
+  font-size: 1.2em;
+  color: #333;
+}
